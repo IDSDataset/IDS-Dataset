@@ -1,0 +1,33 @@
+PCAP Files
+
+This repository includes PCAP (Packet Capture) files which were used to create the dataset and as the results of executing the 'ids_dataset.cc'. These files contain network traffic data and are provided for research and educational purposes, particularly for tasks such as network analysis, anomaly detection, intrusion detection, and related studies.
+
+Download the PCAP Files
+The PCAP files can be downloaded from the following link:
+https://drive.google.com/file/d/1AWcyxwuydxyMV5vauQlJca_5aqktO-qd/view?usp=drive_link
+
+Description of the PCAP Files
+
+    Format: The files are in standard .pcap format, which can be opened with tools such as Wireshark, tcpdump, or any other packet analysis software.
+    Contents: The PCAP files include simulated netwrok traffic which contains:
+        Normal traffic patterns
+        Anomalous or malicious traffic (e.g., simulated attacks, suspicious activity)
+        Specific protocols (e.g., HTTP, DNS, TCP/IP)
+    Purpose: These files are designed for use in:
+        Dataset Creation
+        Network traffic analysis
+        Machine learning and cybersecurity research
+        Training and evaluation of intrusion detection systems (IDS)
+
+How to Use the PCAP Files
+
+    Download the PCAP files from the link above.
+    Open the files with a network analysis tool such as:
+        Wireshark (GUI-based tool)
+        tcpdump (command-line tool)
+        scapy (Python library for packet analysis and manipulation)
+    Analyze the traffic or use it in your research workflows.
+
+License and Attribution
+
+These PCAP files are provided for non-commercial research and educational purposes. If you use these files in any publication or project, please cite this dataset.
