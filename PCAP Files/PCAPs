@@ -1,5 +1,4 @@
 PCAP Files
-
 This repository includes PCAP (Packet Capture) files which were used to create the dataset and as the results of executing the 'ids_dataset.cc'. These files contain network traffic data and are provided for research and educational purposes, particularly for tasks such as network analysis, anomaly detection, intrusion detection, and related studies.
 
 Download the PCAP Files
